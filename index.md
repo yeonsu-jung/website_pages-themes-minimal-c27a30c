@@ -61,10 +61,12 @@ S. Park*, **YJ***, S. Y. Son, I. Cho, Y. Cho, H. Lee, H.-Y. Kim, S. J. Kim
 
 ## Media
 
+🪹 [How do bird nests stay together?](https://seas.harvard.edu/news/2025/04/how-do-bird-nests-stay-together)  
 🏀 [Getting the ball rolling.](https://seas.harvard.edu/news/2025/03/getting-ball-rolling)  
 🦑 [This robotic tentacle gripper is gentle, practical, and terrifying.](https://www.theverge.com/2022/10/26/23424420/robot-tentacle-gripper-rubber-filaments-mr-jelly-hands)  
 🦑 [Bizarre Tentacle Robot Looks Like It Emerged From 'The Matrix'](https://www.cnet.com/science/bizarre-tentacle-robot-looks-like-it-emerged-from-the-matrix/)  
 🦑 [This spooky robot uses inflatable tentacles to grab delicate items](https://www.popsci.com/technology/harvard-tentacle-robot/)  
+🌲 [New Models Expand Thermodynamics to Humidity-Driven Engines That Mimic Plants](https://www.aps.org/publications/apsnews/202212/plants.cfm)  
 
 
 ## Experience
