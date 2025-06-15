@@ -68,10 +68,11 @@ Research: Control/design of soft matter under topological/frictional constraints
 Supervisor: Prof. Lakshminarayanan Mahadevan
 
 **2020-2021**. Postdoctoral Fellow.  
-Rowland institute, Harvard University, Cambridge, MA, USA  
-Research: Fluid dynamics of textured surfaces (e.g., shark skin) for drag reduction.	Supervisor: Dr. Shabnam Raayai-Ardakani
+Rowland institute, Harvard University, Cambridge, MA, USA.  
+Research: Fluid dynamics of textured surfaces (e.g., shark skin) for drag reduction.  
+Supervisor: Dr. Shabnam Raayai-Ardakani
 
-**2019-2020**. Postdoctoral Fellow.
+**2019-2020**. Postdoctoral Fellow.  
 Department of Mechanical Engineering, Seoul National University, Seoul, South Korea.
 Research: Structural optimization in animal architectures.  
 Supervisor: Prof. Ho-Young Kim
