@@ -2,9 +2,9 @@
 layout: default
 ---
 
-I am currently working as postdoc at Harvard Applied Math. My research Interests include - .
+I am currently working as postdoc at [Harvard Applied Math](https://seas.harvard.edu/applied-mathematics). My research Interests include - .
 
-# Experience
+## Experience
 
 **2021-Present**	Postdoctoral fellow.
 Harvard School of Engineering and Applied sciences, Cambridge, MA, USA
@@ -20,7 +20,7 @@ Department of Mechanical Engineering, Seoul National University	Seoul, South Kor
 Research: Structural optimization in animal architectures.
 Supervisor: Prof. Ho-Young Kim
 
-# Education
+## Education
 
 **2014-2019**	PhD in Mechanical Engineering
 Seoul National University, Seoul, South Korea
@@ -34,23 +34,9 @@ Supervisor: Prof. Euiheon Chung
 
 **2008-2012**	BS in Mechanical engineering.	Pohang university of science and technology, Pohang, South Korea
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Publications
 
-[Link to another page](./another-page.html).
-
-[Link to another page2](./another-page2.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Education
-
-
-
-# Publications
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+*: Co-first authors
 
 **Phase transitions in rolling of irregular cylinders and spheres**  
 Daoyuan Qian, **YJ**, L. Mahadevan  
