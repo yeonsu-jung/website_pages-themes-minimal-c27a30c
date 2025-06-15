@@ -6,13 +6,13 @@ I am currently working as postdoc at [Harvard Applied Math](https://seas.harvard
 
 ## Experience
 
-**2021-Present**	Postdoctoral fellow.
-Harvard School of Engineering and Applied sciences, Cambridge, MA, USA
-Research: Control/design of soft matter under topological/frictional constraints.
+**2021-Present**	Postdoctoral fellow.  
+Harvard School of Engineering and Applied sciences, Cambridge, MA, USA.  
+Research: Control/design of soft matter under topological/frictional constraints.  
 Supervisor: Prof. Lakshminarayanan Mahadevan
 
-**2020-2021**	Postdoctoral fellow.
-Rowland institute, Harvard University,Cambridge, MA, USA
+**2020-2021**	Postdoctoral fellow.  
+Rowland institute, Harvard University,Cambridge, MA, USA  
 Research: Fluid dynamics of textured surfaces (e.g., shark skin) for drag reduction.	Supervisor: Dr. Shabnam Raayai-Ardakani
 
 **2019-2020**	Postdoctoral fellow.
