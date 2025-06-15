@@ -2,6 +2,17 @@
 layout: default
 ---
 
+I am currently working as postdoc at Harvard Applied Math. My research Interests include - .
+
+**2014-2019**	PhD in Mechanical Engineering
+Seoul National University, Seoul, South Korea
+Thesis: Optimal control/design principles in biological transport systems.
+Supervisor: Prof. Ho-Young Kim
+**2012-2014**	MS in Biomedical Engineering.	Gwangju institute of science and technology, Gwangju, South Korea
+Thesis: Statistical optics for biomedical applications.
+Supervisor: Prof. Euiheon Chung
+**2008-2012**	BS in Mechanical engineering.	Pohang university of science and technology, Pohang, South Korea
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
@@ -11,6 +22,10 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+
+# Education
+
+
 
 # Publications
 
