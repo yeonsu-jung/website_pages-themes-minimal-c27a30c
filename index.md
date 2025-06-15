@@ -100,5 +100,5 @@ Gwangju Institute of Science and Technology, Gwangju, South Korea.
 Thesis: Statistical optics for biomedical applications.  
 Supervisor: Prof. Euiheon Chung
 
-**2008-2012**	BS in Mechanical engineering.
-Pohang university of science and technology, Pohang, South Korea.  
+**2008-2012**	BS in Mechanical engineering.  
+Pohang university of Science and Technology, Pohang, South Korea.  
