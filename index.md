@@ -16,7 +16,8 @@ Daoyuan Qian, **YJ**, L. Mahadevan
 
 **Entanglement transition in rod packings**  
 **YJ**, Thomas Plumb-Reyes, Hao-Yu Greg Lin, L. Mahadevan  
-[Proceedings of the National Academy of Sciences 122, e2401868122 (2025)](https://www.pnas.org/doi/10.1073/pnas.2401868122)
+[Proceedings of the National Academy of Sciences 122, e2401868122 (2025)](https://www.pnas.org/doi/10.1073/pnas.2401868122)  
+🪹 [How do bird nests stay together?](https://seas.harvard.edu/news/2025/04/how-do-bird-nests-stay-together)  
 
 **Active entanglement enables stochastic, topological grasping**  
 Kaitlyn Becker, Clark Teeple, Nicholas Charles, **YJ**, Daniel Baum,  
