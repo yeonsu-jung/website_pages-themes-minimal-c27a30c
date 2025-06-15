@@ -61,8 +61,8 @@ S. Park*, **YJ***, S. Y. Son, I. Cho, Y. Cho, H. Lee, H.-Y. Kim, S. J. Kim
 
 ## Media
 
-🏀 [Getting the ball rolling](https://seas.harvard.edu/news/2025/03/getting-ball-rolling)
-
+🏀 [Getting the ball rolling.](https://seas.harvard.edu/news/2025/03/getting-ball-rolling)
+🦑 [This robotic tentacle gripper is gentle, practical, and terrifying.](https://www.theverge.com/2022/10/26/23424420/robot-tentacle-gripper-rubber-filaments-mr-jelly-hands)
 
 
 ## Experience
