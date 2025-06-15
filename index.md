@@ -4,36 +4,7 @@ layout: default
 
 I am currently working as postdoc at [Harvard Applied Math](https://seas.harvard.edu/applied-mathematics). My research Interests include - .
 
-## Experience
 
-**2021-Present**. Postdoctoral Fellow.  
-Harvard School of Engineering and Applied sciences, Cambridge, MA, USA.  
-Research: Control/design of soft matter under topological/frictional constraints.  
-Supervisor: Prof. Lakshminarayanan Mahadevan
-
-**2020-2021**. Postdoctoral Fellow.  
-Rowland institute, Harvard University, Cambridge, MA, USA  
-Research: Fluid dynamics of textured surfaces (e.g., shark skin) for drag reduction.	Supervisor: Dr. Shabnam Raayai-Ardakani
-
-**2019-2020**. Postdoctoral Fellow.
-Department of Mechanical Engineering, Seoul National University, Seoul, South Korea.
-Research: Structural optimization in animal architectures.  
-Supervisor: Prof. Ho-Young Kim
-
-## Education
-
-**2014-2019**	PhD in Mechanical Engineering.  
-Seoul National University, Seoul, South Korea.  
-Thesis: Optimal control/design principles in biological transport systems.
-Supervisor: Prof. Ho-Young Kim
-
-**2012-2014**	MS in Biomedical Engineering.  
-Gwangju institute of science and technology, Gwangju, South Korea.  
-Thesis: Statistical optics for biomedical applications.  
-Supervisor: Prof. Euiheon Chung
-
-**2008-2012**	BS in Mechanical engineering.
-Pohang university of science and technology, Pohang, South Korea.  
 
 ## Publications
 
@@ -89,112 +60,33 @@ S. Park*, **YJ***, S. Y. Son, I. Cho, Y. Cho, H. Lee, H.-Y. Kim, S. J. Kim
 [Proceedings of SPIE, Nano-Bio Sensing, Imaging, and Spectroscopy, 88790D (2013)](https://doi.org/10.1117/12.2029870)
 
 
+## Experience
 
+**2021-Present**. Postdoctoral Fellow.  
+Harvard School of Engineering and Applied sciences, Cambridge, MA, USA.  
+Research: Control/design of soft matter under topological/frictional constraints.  
+Supervisor: Prof. Lakshminarayanan Mahadevan
 
-## Header 2
+**2020-2021**. Postdoctoral Fellow.  
+Rowland institute, Harvard University, Cambridge, MA, USA  
+Research: Fluid dynamics of textured surfaces (e.g., shark skin) for drag reduction.	Supervisor: Dr. Shabnam Raayai-Ardakani
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+**2019-2020**. Postdoctoral Fellow.
+Department of Mechanical Engineering, Seoul National University, Seoul, South Korea.
+Research: Structural optimization in animal architectures.  
+Supervisor: Prof. Ho-Young Kim
 
-### Header 3
+## Education
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+**2014-2019**	PhD in Mechanical Engineering.  
+Seoul National University, Seoul, South Korea.  
+Thesis: Optimal control/design principles in biological transport systems.
+Supervisor: Prof. Ho-Young Kim
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+**2012-2014**	MS in Biomedical Engineering.  
+Gwangju Institute of Science and Technology, Gwangju, South Korea.  
+Thesis: Statistical optics for biomedical applications.  
+Supervisor: Prof. Euiheon Chung
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+**2008-2012**	BS in Mechanical engineering.
+Pohang university of science and technology, Pohang, South Korea.  
