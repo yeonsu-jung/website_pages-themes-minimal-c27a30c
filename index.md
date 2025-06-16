@@ -2,7 +2,12 @@
 layout: default
 ---
 
-I am currently working as a postdoc at [Harvard Applied Math](https://seas.harvard.edu/applied-mathematics) with [Prof. Mahadevan](https://softmath.seas.harvard.edu/). I study soft matter with combination of experiment, theory, and computation. 
+I am currently working as a postdoc at [Harvard Applied Math](https://seas.harvard.edu/applied-mathematics) with [Prof. L. Mahadevan](https://softmath.seas.harvard.edu/). Before that, I was a PhD student at the Department of Mechanical Engineering, Seoul National University under the supervision of [Prof. Ho-Young Kim](https://fluids.snu.ac.kr/). I am generally interested in soft matter's  
+- nonlinear dynamics ([irregular rolling](https://www.pnas.org/doi/10.1073/pnas.2417161122)),  
+- singularity (paper folding and crumpling),  
+- geometry and topology ([entanglement](https://www.pnas.org/doi/10.1073/pnas.2401868122)),  
+- controllability ([web robots](https://www.science.org/doi/10.1126/scirobotics.aaz5405), [tentacle robots](https://www.pnas.org/doi/10.1073/pnas.2209819119)),  
+- 
 
 <!-- [Research statement](./research-statement.html) -->
 
@@ -19,7 +24,6 @@ Daoyuan Qian, **YJ**, L. Mahadevan
 **Entanglement transition in rod packings**  
 **YJ**, Thomas Plumb-Reyes, Hao-Yu Greg Lin, L. Mahadevan  
 [Proceedings of the National Academy of Sciences 122, e2401868122 (2025)](https://www.pnas.org/doi/10.1073/pnas.2401868122)  
-🪹 [How do bird nests stay together?](https://seas.harvard.edu/news/2025/04/how-do-bird-nests-stay-together)  
 
 **Active entanglement enables stochastic, topological grasping**  
 Kaitlyn Becker, Clark Teeple, Nicholas Charles, **YJ**, Daniel Baum,  
