@@ -100,7 +100,7 @@ Research: Fluid dynamics of textured surfaces (e.g., shark skin) for drag reduct
 Supervisor: Dr. Shabnam Raayai-Ardakani
 
 **2019-2020**. Postdoctoral Fellow.  
-Department of Mechanical Engineering, Seoul National University, Seoul, South Korea.
+Department of Mechanical Engineering, Seoul National University, Seoul, South Korea.  
 Research: Structural optimization in animal architectures.  
 Supervisor: Prof. Ho-Young Kim
 
