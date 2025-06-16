@@ -56,7 +56,7 @@ Y. Lee*, W. J. Song*, **YJ**, H. You, M.-Y. Kim, H.-Y. Kim, J.-Y. Sun
 [Science Robotics 5, eaaz5405 (2020)](https://www.science.org/doi/10.1126/scirobotics.aaz5405)
 
 **Optimal diameter reduction ratio of acinar airways in human lungs**  
-K. Park*, **YJ***, T. Son, Y.-J. Cho, N. L. Jeon, W. Kim, H.-Y. Kim  
+K. Park*, **YJ**, T. Son, Y.-J. Cho, N. L. Jeon, W. Kim, H.-Y. Kim  
 [PLOS ONE 14, e0218947 (2019)](https://doi.org/10.1371/journal.pone.0204191)
 
 **Poro-elasto-capillary wicking of cellulose sponges**  
