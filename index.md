@@ -74,10 +74,10 @@ S. Park*, **YJ***, S. Y. Son, I. Cho, Y. Cho, H. Lee, H.-Y. Kim, S. J. Kim
 🦑 [This robotic tentacle gripper is gentle, practical, and terrifying.](https://www.theverge.com/2022/10/26/23424420/robot-tentacle-gripper-rubber-filaments-mr-jelly-hands)  
 🦑 [Bizarre Tentacle Robot Looks Like It Emerged From 'The Matrix'.](https://www.cnet.com/science/bizarre-tentacle-robot-looks-like-it-emerged-from-the-matrix/)  
 🦑 [This spooky robot uses inflatable tentacles to grab delicate items.](https://www.popsci.com/technology/harvard-tentacle-robot/)  
-🌲 [New Models Expand Thermodynamics to Humidity-Driven Engines That Mimic Plants.](https://www.aps.org/publications/apsnews/202212/plants.cfm)
-🐟 [가오리 피부가 '힌트'… 눈 감고도 사물 감지하는 센서 개발](https://www.chosun.com/economy/science/2021/12/01/YCCVX5EYWVGRPD4TESISP3JZDA/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news.html)
-🛖 [제비 무게 100배 견디는 제비집의 비밀은 '침'](https://www.chosun.com/economy/science/2021/01/14/ISP4PIJBRBAKVCYKA4N773HM2A/)
-🕸️ [Artificial spider web gets an ionic boost](https://physicsworld.com/a/artificial-spider-web-gets-an-ionic-boost/)
+🌲 [New Models Expand Thermodynamics to Humidity-Driven Engines That Mimic Plants.](https://www.aps.org/publications/apsnews/202212/plants.cfm)  
+🐟 [가오리 피부가 '힌트'… 눈 감고도 사물 감지하는 센서 개발](https://www.chosun.com/economy/science/2021/12/01/YCCVX5EYWVGRPD4TESISP3JZDA/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news.html)  
+🛖 [제비 무게 100배 견디는 제비집의 비밀은 '침'](https://www.chosun.com/economy/science/2021/01/14/ISP4PIJBRBAKVCYKA4N773HM2A/)  
+🕸️ [Artificial spider web gets an ionic boost](https://physicsworld.com/a/artificial-spider-web-gets-an-ionic-boost/)  
 🧽 [An absorbing study on the maths of sponges](https://www.nature.com/articles/d41586-018-04010-w)
 
 
