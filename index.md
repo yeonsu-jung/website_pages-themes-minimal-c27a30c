@@ -10,7 +10,7 @@ My research broadly explores the nonlinear dynamics and physics of soft matter, 
 - **Geometry and topology** ([entanglement](https://www.pnas.org/doi/10.1073/pnas.2401868122), [tentacle robots](https://www.pnas.org/doi/10.1073/pnas.2209819119), [irregular rolling](https://www.pnas.org/doi/10.1073/pnas.2417161122))  
 - **Controllability of soft structures** ([web robots](https://www.science.org/doi/10.1126/scirobotics.aaz5405), [tentacle robots](https://www.pnas.org/doi/10.1073/pnas.2209819119))  
 - **Friction and contact in soft systems** ([entanglement](https://www.pnas.org/doi/10.1073/pnas.2401868122), *dynamic* [Signorini problems](https://en.wikipedia.org/wiki/Signorini_problem))  
-- **Collective behavior** ([entanglement](https://www.pnas.org/doi/10.1073/pnas.2401868122), [tentacle robots](https://www.pnas.org/doi/10.1073/pnas.2209819119))
+- **Collective behavior** ([entanglement](https://www.pnas.org/doi/10.1073/pnas.2401868122), [tentacle robots](https://www.pnas.org/doi/10.1073/pnas.2209819119))  
 — and just about everything else that bends, twists, or entangles, collectively.
 
 
