@@ -2,12 +2,17 @@
 layout: default
 ---
 
-I am currently working as a postdoc at [Harvard Applied Math](https://seas.harvard.edu/applied-mathematics) with [Prof. L. Mahadevan](https://softmath.seas.harvard.edu/). Before that, I was a PhD student at the Department of Mechanical Engineering, Seoul National University under the supervision of [Prof. Ho-Young Kim](https://fluids.snu.ac.kr/). I am generally interested in soft matter's  
-- nonlinear dynamics ([irregular rolling](https://www.pnas.org/doi/10.1073/pnas.2417161122)),  
-- singularity (paper folding and crumpling),  
-- geometry and topology ([entanglement](https://www.pnas.org/doi/10.1073/pnas.2401868122)),  
-- controllability ([web robots](https://www.science.org/doi/10.1126/scirobotics.aaz5405), [tentacle robots](https://www.pnas.org/doi/10.1073/pnas.2209819119)),  
-- 
+I am currently a postdoctoral researcher in [Applied Mathematics at Harvard](https://seas.harvard.edu/applied-mathematics), working with [Prof. L. Mahadevan](https://softmath.seas.harvard.edu/). Previously, I completed my Ph.D. in Mechanical Engineering at Seoul National University under the supervision of [Prof. Ho-Young Kim](https://fluids.snu.ac.kr/).
+
+My research broadly explores the nonlinear dynamics and physics of soft matter, with particular interests in:  
+- **Nonlinear dynamics** ([irregular rolling](https://www.pnas.org/doi/10.1073/pnas.2417161122))  
+- **Singularities** (e.g., paper folding and crumpling)  
+- **Geometry and topology** ([entanglement](https://www.pnas.org/doi/10.1073/pnas.2401868122), [tentacle robots](https://www.pnas.org/doi/10.1073/pnas.2209819119), [irregular rolling](https://www.pnas.org/doi/10.1073/pnas.2417161122))  
+- **Controllability of soft structures** ([web robots](https://www.science.org/doi/10.1126/scirobotics.aaz5405), [tentacle robots](https://www.pnas.org/doi/10.1073/pnas.2209819119))  
+- **Friction and contact in soft systems** ([entanglement](https://www.pnas.org/doi/10.1073/pnas.2401868122), *dynamic* [Signorini problems](https://en.wikipedia.org/wiki/Signorini_problem))  
+- **Collective behavior** ([entanglement](https://www.pnas.org/doi/10.1073/pnas.2401868122), [tentacle robots](https://www.pnas.org/doi/10.1073/pnas.2209819119))
+— and just about everything else that bends, twists, or entangles, collectively.
+
 
 <!-- [Research statement](./research-statement.html) -->
 
