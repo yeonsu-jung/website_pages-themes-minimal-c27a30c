@@ -46,7 +46,7 @@ Y. Lee*, W. J. Song*, **YJ**, H. You, M.-Y. Kim, H.-Y. Kim, J.-Y. Sun
 
 **Optimal diameter reduction ratio of acinar airways in human lungs**  
 K. Park*, **YJ***, T. Son, Y.-J. Cho, N. L. Jeon, W. Kim, H.-Y. Kim  
-[PLOS ONE 14, e0218947 (2019)](https://doi.org/10.1371/journal.pone.0218947)
+[PLOS ONE 14, e0218947 (2019)](https://doi.org/10.1371/journal.pone.0204191)
 
 **Poro-elasto-capillary wicking of cellulose sponges**  
 J. Ha, J. Kim, **YJ**, G. Yun, D.-N. Kim, H.-Y. Kim  
@@ -58,7 +58,7 @@ S. Park*, **YJ***, S. Y. Son, I. Cho, Y. Cho, H. Lee, H.-Y. Kim, S. J. Kim
 
 **Three-dimensional point spread function of surface plasmon-coupled emission microscopy**  
 **YJ**, Euiheon Chung  
-[Proceedings of SPIE, Nano-Bio Sensing, Imaging, and Spectroscopy, 88790D (2013)](https://doi.org/10.1117/12.2029870)
+[Proceedings of SPIE, Nano-Bio Sensing, Imaging, and Spectroscopy, 88790D (2013)](https://astronomicaltelescopes.spiedigitallibrary.org/conference-proceedings-of-spie/8879/88790D/Three-dimensional-point-spread-function-of-surface-plasmon-coupled-emission/10.1117/12.2018695.short)
 
 
 ## Media
