@@ -18,7 +18,9 @@ Research efforts to understand the behavior of soft matter and robots (footnote1
 
 ## Opportunity as .
 
-$y = f(x)$
+TEST $$y = f(x)$$
+
+$$y = f(x)$$
 
 ###
 
